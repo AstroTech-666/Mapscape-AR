@@ -39,8 +39,8 @@ Watch the app in action! The video covers:
   - Add this key to `local.properties` as `MAPS_KEY`  
 - **REST Server:**  
   - Needed to store/load routes (not included here)  
-  - Repo: [ar-navigation-server](https://github.com/morhenny/ar-navigation-server)  
-  - Change server IP in [Webservice.kt](https://github.com/morhenny/ar-navigation/blob/master/app/src/main/java/de/morhenn/ar_navigation/persistance/Webservice.kt)  
+  - Repo: [Mapscape AR](https://github.com/AstroTech-666/Mapscape-AR)  
+  - Change server IP in [Webservice.kt](https://github.com/AstroTech-666/Mapscape-AR/blob/master/app/src/main/java/de/morhenn/ar_navigation/persistance/Webservice.kt)  
 
 ---
 
