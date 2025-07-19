@@ -13,17 +13,9 @@ Watch the app in action! The video covers:
 - Searching & showing all routes in AR, then navigating one
 
 <details>
-<summary>▶️ Click to watch</summary>
+  <summary>▶️ Click to watch</summary>
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/LICAceF-56M" 
-  title="AR-Navigation Demo" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+  [![Watch the demo](https://img.youtube.com/vi/LICAceF-56M/0.jpg)](https://www.youtube.com/watch?v=LICAceF-56M)
 
 </details>
 
