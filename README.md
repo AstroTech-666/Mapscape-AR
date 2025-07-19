@@ -2,8 +2,6 @@
 
 An Augmented Reality Navigation App using ARCore Cloud Anchors and the ARCore Geospatial API, built with SceneView.
 
-> **Note:** This was made for a university course — it’s a tech demo, not a finished product.
-
 ---
 
 ## 🎥 Demo Video
