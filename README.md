@@ -15,7 +15,7 @@ Watch the app in action! The video covers:
 <details>
   <summary>▶️ Click to watch</summary>
 
-  [![Watch the demo](https://img.youtube.com/vi/LICAceF-56M/0.jpg)](https://www.youtube.com/watch?v=LICAceF-56M)
+  [![Watch the demo](https://youtu.be/17V1fEsFDMI/0.jpg)](https://youtu.be/17V1fEsFDMI)
 
 </details>
 
