@@ -1,28 +1,53 @@
 # AR-Navigation
-An Augmented Reality Navigation App based on ARCore Cloud Anchors and the ARCore Geospatial API and implemented with SceneView.
 
-This project was developed for a university course, so this is a technology demonstration and not a finished product.
+An Augmented Reality Navigation App using ARCore Cloud Anchors and the ARCore Geospatial API, built with SceneView.
 
-## Demo-Video
-In this video, the core functionality of the app can be seen and is split up into 3 parts:
-1. A new route being created
-2. That route being navigated by
-3. Searching and showing all routes around in AR and from there one route is navigated by
+> **Note:** This was made for a university course — it’s a tech demo, not a finished product.
 
-https://www.youtube.com/watch?v=LICAceF-56M
+---
 
+## 🎥 Demo Video
 
-## Setup & Usage
-Clone this repository and import it into your Android Studio.
+Watch the app in action! The video covers:
 
-To use the app, you will need to create an account for the Google Cloud Console and activate and set up the `ARCore API` with OAuth 2.0 authentification.  
-Additionally an API-Key for the `Maps SDK for Android` is required as well, which needs to be set within the `local.properties` as `MAPS_KEY`.
+- Creating a new route  
+- Navigating that route  
+- Searching & showing all routes in AR, then navigating one
 
-The application requires a simple REST-Server to store and load the routes, which is not included in this repository but can be found [here](https://github.com/morhenny/ar-navigation-server).  
-The IP address to your server can be changed in the [Webservice](https://github.com/morhenny/ar-navigation/blob/master/app/src/main/java/de/morhenn/ar_navigation/persistance/Webservice.kt) class.
+<details>
+<summary>▶️ Click to watch</summary>
 
-## Core References
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/LICAceF-56M" 
+  title="AR-Navigation Demo" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
-https://github.com/SceneView/sceneview-android  
-https://developers.google.com/ar/develop/cloud-anchors  
-https://developers.google.com/ar/develop/geospatial
+</details>
+
+---
+
+## ⚙️ Setup & Usage
+
+- **Clone** this repo and open it in Android Studio  
+- **Google Cloud Setup:**  
+  - Create a Google Cloud Console account  
+  - Enable **ARCore API** with OAuth 2.0 authentication  
+  - Get an API key for **Maps SDK for Android**  
+  - Add this key to `local.properties` as `MAPS_KEY`  
+- **REST Server:**  
+  - Needed to store/load routes (not included here)  
+  - Repo: [ar-navigation-server](https://github.com/morhenny/ar-navigation-server)  
+  - Change server IP in [Webservice.kt](https://github.com/morhenny/ar-navigation/blob/master/app/src/main/java/de/morhenn/ar_navigation/persistance/Webservice.kt)  
+
+---
+
+## 🔗 Core References
+
+- [SceneView Android](https://github.com/SceneView/sceneview-android)  
+- [ARCore Cloud Anchors](https://developers.google.com/ar/develop/cloud-anchors)  
+- [ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
