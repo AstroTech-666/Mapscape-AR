@@ -15,7 +15,7 @@ Watch the app in action! The video covers:
 <details>
   <summary>▶️ Click to watch</summary>
 
-  [![Watch the demo](https://youtu.be/17V1fEsFDMI/0.jpg)](https://youtu.be/17V1fEsFDMI)
+  [![Watch the demo](https://img.youtube.com/vi/R9s3sm3D4ZI/0.jpg)](https://youtu.be/R9s3sm3D4ZI)
 
 </details>
 
@@ -41,3 +41,4 @@ Watch the app in action! The video covers:
 - [SceneView Android](https://github.com/SceneView/sceneview-android)  
 - [ARCore Cloud Anchors](https://developers.google.com/ar/develop/cloud-anchors)  
 - [ARCore Geospatial API](https://developers.google.com/ar/develop/geospatial)
+  
