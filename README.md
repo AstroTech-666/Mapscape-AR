@@ -15,7 +15,7 @@ Watch the app in action! The video covers:
 <details>
   <summary>▶️ Click to watch</summary>
 
-  [![Watch the demo](https://img.youtube.com/vi/R9s3sm3D4ZI/0.jpg)](https://youtu.be/R9s3sm3D4ZI)
+  [![Watch the demo](https://img.youtube.com/vi/JaEvMQULEHk/0.jpg)](https://youtu.be/JaEvMQULEHk)
 
 </details>
 
